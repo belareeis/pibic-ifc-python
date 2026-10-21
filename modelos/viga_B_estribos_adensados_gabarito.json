@@ -1,0 +1,405 @@
+{
+  "modelo": "viga_B_estribos_adensados",
+  "unidades": "mm",
+  "viga": {
+    "comprimento": 3100,
+    "largura": 200,
+    "altura": 400,
+    "cobrimento": 25
+  },
+  "resumo": {
+    "total_barras": 33,
+    "n_estribos": 22,
+    "n_longitudinais": 11,
+    "diametro_estribo_mm": 5.0,
+    "espacamentos_distintos_mm": [
+      80,
+      200
+    ],
+    "comprimento_total_aco_m": 43.283,
+    "peso_total_kg": 28.3
+  },
+  "estribos_x_mm": [
+    50,
+    130,
+    210,
+    290,
+    370,
+    450,
+    650,
+    850,
+    1050,
+    1250,
+    1450,
+    1650,
+    1850,
+    2050,
+    2250,
+    2450,
+    2650,
+    2730,
+    2810,
+    2890,
+    2970,
+    3050
+  ],
+  "estribos_espacamentos_mm": [
+    80,
+    80,
+    80,
+    80,
+    80,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    80,
+    80,
+    80,
+    80,
+    80
+  ],
+  "barras": [
+    {
+      "global_id": "0S0qrS4pv8GBeDxu$h0ZqY",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 50,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2O4X1F65nBowcGHY7dLCRj",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 130,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0CizmtHKf3yOdUsxuQh9gd",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 210,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1uZ_LBbYz86QQkYZV9S4V3",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 290,
+      "quantidade": 1
+    },
+    {
+      "global_id": "3Vy06J3C9DavzexBlpXw6J",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 370,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1j0b7pHUTF4P_clz7ms_S3",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 450,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1Qb1ZLz7nAZw4Cm5jKMHhD",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 650,
+      "quantidade": 1
+    },
+    {
+      "global_id": "3gvRdaaUnB4PA_9P9vMfJB",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 850,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2Fp_chNmf22OluCUodAf9w",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 1050,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1qVIcN$OP6IwXTXDzOKnUU",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 1250,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0Bw9$yHJP7WhmZ50VgkpTJ",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 1450,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0PIMq_ymr95wGzvKEbsRgx",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 1650,
+      "quantidade": 1
+    },
+    {
+      "global_id": "3gbkvflWTDdhWASjRaSjOz",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 1850,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0aKZRD9DP4KfafaQTO93aV",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2050,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1SxhRD5j5AC82UEXwtnnDS",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2250,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0CFOuK41nFP9RQYirKrdLt",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2450,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2T3pu849TB4elrBPNQUrr4",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2650,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2RJEtkiMz7Y8D5eWf_7LcU",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2730,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0AThNIhKf4TRnDFStDTEv4",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2810,
+      "quantidade": 1
+    },
+    {
+      "global_id": "06ff8d8Hn2WwpLFG2MQJXG",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2890,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1AzKOrbGf2b9Supi1oIoOu",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 2970,
+      "quantidade": 1
+    },
+    {
+      "global_id": "27lqlLLF9DCeqdkXeF77FR",
+      "papel": "ESTRIBO",
+      "diametro_mm": 5.0,
+      "aco": "CA-60",
+      "comprimento_mm": 949.248,
+      "x_mm": 3050,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1_jf7R9Tv3RBgLELeCXfYx",
+      "papel": "SUP_CONTINUA",
+      "diametro_mm": 10.0,
+      "aco": "CA-50",
+      "comprimento_mm": 3040.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 3070,
+      "y_mm": -65.0,
+      "z_mm": 165.0,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2xK3WOvR5APwct5qjY5cIL",
+      "papel": "SUP_CONTINUA",
+      "diametro_mm": 10.0,
+      "aco": "CA-50",
+      "comprimento_mm": 3040.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 3070,
+      "y_mm": 65.0,
+      "z_mm": 165.0,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0cHlc3irj8V96A9f7sdBjh",
+      "papel": "SUP_APOIO_ESQ",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 800.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 830,
+      "y_mm": -63.75,
+      "z_mm": 127.5,
+      "quantidade": 1
+    },
+    {
+      "global_id": "07vlEB$ELB6PdSdwsKlj7K",
+      "papel": "SUP_APOIO_ESQ",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 800.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 830,
+      "y_mm": 63.75,
+      "z_mm": 127.5,
+      "quantidade": 1
+    },
+    {
+      "global_id": "13B4ZTrwzF6g4n79Fi5f3B",
+      "papel": "SUP_APOIO_DIR",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 800.0,
+      "x_inicio_mm": 2270,
+      "x_fim_mm": 3070,
+      "y_mm": -63.75,
+      "z_mm": 127.5,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2v4z$DLGD628VEXsWOBHSB",
+      "papel": "SUP_APOIO_DIR",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 800.0,
+      "x_inicio_mm": 2270,
+      "x_fim_mm": 3070,
+      "y_mm": 63.75,
+      "z_mm": 127.5,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0zfG$KwcnETwDsji6V5GM_",
+      "papel": "INF_PRINCIPAL",
+      "diametro_mm": 16.0,
+      "aco": "CA-50",
+      "comprimento_mm": 3040.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 3070,
+      "y_mm": -62.0,
+      "z_mm": -162.0,
+      "quantidade": 1
+    },
+    {
+      "global_id": "2rsRrtl3zBR8QJeEyCO_nZ",
+      "papel": "INF_PRINCIPAL",
+      "diametro_mm": 16.0,
+      "aco": "CA-50",
+      "comprimento_mm": 3040.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 3070,
+      "y_mm": 0.0,
+      "z_mm": -162.0,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1P2PHtusT7$A9CwL9Dsxi4",
+      "papel": "INF_PRINCIPAL",
+      "diametro_mm": 16.0,
+      "aco": "CA-50",
+      "comprimento_mm": 3040.0,
+      "x_inicio_mm": 30,
+      "x_fim_mm": 3070,
+      "y_mm": 62.0,
+      "z_mm": -162.0,
+      "quantidade": 1
+    },
+    {
+      "global_id": "1ajx8gspb7zunEiCoYlYTV",
+      "papel": "INF_REFORCO",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 2000.0,
+      "x_inicio_mm": 550.0,
+      "x_fim_mm": 2550.0,
+      "y_mm": -63.75,
+      "z_mm": -122.75,
+      "quantidade": 1
+    },
+    {
+      "global_id": "0Ad0VoA714ahWWSf9JT9mv",
+      "papel": "INF_REFORCO",
+      "diametro_mm": 12.5,
+      "aco": "CA-50",
+      "comprimento_mm": 2000.0,
+      "x_inicio_mm": 550.0,
+      "x_fim_mm": 2550.0,
+      "y_mm": 63.75,
+      "z_mm": -122.75,
+      "quantidade": 1
+    }
+  ],
+  "observacoes": [
+    "Estribos sem ganchos de 135 graus (simplificacao).",
+    "Comprimentos calculados analiticamente ao longo do eixo da barra (retas + arcos)."
+  ]
+}
